@@ -1,0 +1,1 @@
+echo "First CMake Project from launcher.sh"
